@@ -41,3 +41,9 @@ color: white;
     text-align: center;
     padding: 20px;
 }
+.port img{
+width: 200px;
+}
+.port{
+    text-align: center;
+}
