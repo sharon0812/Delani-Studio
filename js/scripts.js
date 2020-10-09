@@ -20,20 +20,20 @@ $(document).ready(function(){
         $("#pa").hide("slow");
         $("#design").show("slow");
     });
-    $("#design").click (function(){
-        $("#design").hide("slow");
-        $("#pa").show("slow");
+    $("#dev").click (function(){
+        $("#dev").hide("slow");
+        $("#paa").show("slow");
     });
-    $("#pa").click (function(){
-        $("#pa").hide("slow");
-        $("#design").show("slow");
+    $("#paa").click (function(){
+        $("#paa").hide("slow");
+        $("#dev").show("slow");
     });
-    $("#design").click (function(){
-        $("#design").hide("slow");
-        $("#pa").show("slow");
+    $("#product").click (function(){
+        $("#product").hide("slow");
+        $("#pab").show("slow");
     });
-    $("#pa").click (function(){
-        $("#pa").hide("slow");
-        $("#design").show("slow");
+    $("#product").click (function(){
+        $("#pab").hide("slow");
+        $("#product").show("slow");
     });
 });
