@@ -24,3 +24,19 @@ $(document).ready(function(){
         $("#product").show("slow");
     });
 });
+
+$(document).ready(function(){
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+})
+
+
+function myFunction(){
+    var name = document.getElementById("zel").value;
+    var email = document.getElementById("zel1").value;
+
+    if((name) && (email)){
+        alert(name + ",We have received your message. Thank you for reaching out to us")
+    }
+}

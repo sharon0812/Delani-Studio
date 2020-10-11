@@ -42,7 +42,7 @@ color: white;
     padding: 20px;
 }
 .port img{
-width: 200px;
+width: 250px;
 }
 .port{
     text-align: center;
@@ -60,7 +60,7 @@ width: 200px;
     margin-right: 10px; 
     background-color: beige                 
 }
-.par{
+.studio{
    text-align: center; 
 }
 #jaber{
@@ -68,6 +68,9 @@ background: none;
 height: 20vh;
 }
 #zel{
+    background: none;
+}
+#zel1{
     background: none;
 }
 .box {
@@ -87,4 +90,15 @@ height: 20vh;
     0%   { transform: translateY(0); }
     50%  { transform: translateY(-100px); }
     100% { transform: translateY(0); }
+}
+.par,
+.par1,.par2,.par3,.par4,.par5,.par6,.par7{
+position:absolute;
+color: white;
+text-transform: uppercase;
+margin-left: 12%;
+border:2px solid #fff;
+padding: 30px;
+margin-top: 17%;
+display: none;
 }
