@@ -28,6 +28,9 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#par").hover(function(){
         $(".par").toggle();
+    });  
+    $("#par1").hover(function(){
+        $(".par1").toggle();
     });
 })
 
