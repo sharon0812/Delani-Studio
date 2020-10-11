@@ -1,7 +1,8 @@
-## DELANI STUDIO.
+# DELANI STUDIO.
 ## Author
-
-## github repo link
+   Sharon Anyango
+## Github repo link
+   Click [here](https://github.com/sharon0812/Delani-Studio) to viw the project in github
 ## Live link
 ## Description
 ## Bdd
