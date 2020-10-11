@@ -19,6 +19,6 @@ Recreated landing page for  Delani studio
 You can reach me via email:
 anyangosharon26@gmail.com
 ## Image preview
-![Landing page](image/screen.png)
+![Landing page](image/Screen.png)
 ## Lincense
 Copyright (C) 2020 **(DELANI STUDIO)**
