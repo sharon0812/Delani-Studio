@@ -32,6 +32,24 @@ $(document).ready(function(){
     $("#par1").hover(function(){
         $(".par1").toggle();
     });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
+    $("#par").hover(function(){
+        $(".par").toggle();
+    });
 })
 
 
