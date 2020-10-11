@@ -32,23 +32,23 @@ $(document).ready(function(){
     $("#par1").hover(function(){
         $(".par1").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par2").hover(function(){
+        $(".par2").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par3").hover(function(){
+        $(".par3").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par4").hover(function(){
+        $(".par4").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par5").hover(function(){
+        $(".par5").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par6").hover(function(){
+        $(".par6").toggle();
     });
-    $("#par").hover(function(){
-        $(".par").toggle();
+    $("#par7").hover(function(){
+        $(".par7").toggle();
     });
 })
 
