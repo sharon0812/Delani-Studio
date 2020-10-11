@@ -1,9 +1,10 @@
 # DELANI STUDIO.
 ## Author
-   Sharon Anyango
+Sharon Anyango
 ## Github repo link
-   Click [here](https://github.com/sharon0812/Delani-Studio) to viw the project in github
+Click [here](https://github.com/sharon0812/Delani-Studio) to viw the project in github
 ## Live link
+
 ## Description
 ## Bdd
 * Enter your name.
@@ -14,8 +15,9 @@
 * Css
 * JavaScript
 ## Contact
-  You can reach me via email:
-  anyangosharon26@gmail.com
+You can reach me via email:
+anyangosharon26@gmail.com
 ## Image preview
+![Landing page](image/sreen.png)
 ## Lincense
-  Copyright (C) 2020 **(DELANI STUDIO)**
+Copyright (C) 2020 **(DELANI STUDIO)**
