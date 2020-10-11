@@ -6,6 +6,7 @@ Click [here](https://github.com/sharon0812/Delani-Studio) to viw the project in 
 ## Live link
 
 ## Description
+Recreated landing page for  Delani studio
 ## Bdd
 * Enter your name.
 * Enter your email
@@ -18,6 +19,6 @@ Click [here](https://github.com/sharon0812/Delani-Studio) to viw the project in 
 You can reach me via email:
 anyangosharon26@gmail.com
 ## Image preview
-![Landing page](image/sreen.png)
+![Landing page](image/screen.png)
 ## Lincense
 Copyright (C) 2020 **(DELANI STUDIO)**

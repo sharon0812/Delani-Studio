@@ -19,7 +19,7 @@ $(document).ready(function(){
         $("#product").hide("slow");
         $("#pab").show("slow");
     });
-    $("#product").click (function(){
+    $("#pab").click (function(){
         $("#pab").hide("slow");
         $("#product").show("slow");
     });
@@ -55,7 +55,7 @@ $(document).ready(function(){
 
 function myFunction(){
     var name = document.getElementById("zel").value;
-    var email = document.getElementById("zel1").value;
+    var email = document.getElementById("mce-EMAIL").value;
 
     if((name) && (email)){
         alert(name + ",We have received your message. Thank you for reaching out to us")
